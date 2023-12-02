@@ -15,7 +15,7 @@ setup(
     author='Shish',
     author_email='webmaster@shishnet.org',
     install_requires=[
-        "autopy3",
+        "autopy",
         "pillow",
         "numpy",
         "mss",
